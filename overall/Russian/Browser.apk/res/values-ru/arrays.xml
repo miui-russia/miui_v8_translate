@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestqueries.google.com/complete/search?output=toolbar&amp;hl={language}&amp;q={searchTerms}</item>
+    </string-array>
+    <string-array name="tupian">
+        <item>Фото</item>
+        <item>google.com</item>
+        <item>http://image.baidu.com/favicon.ico</item>
+        <item>http://www.google.ru/search?newwindow=1&amp;tbm=isch&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestqueries.google.com/complete/search?output=toolbar&amp;hl={language}&amp;q={searchTerms}</item>
+    </string-array>
+    <string-array name="shipin">
+        <item>Видео</item>
+        <item>google.com</item>
+        <item>http://youtube.com/favicon.ico</item>
+        <item>http://www.google.ru/search?newwindow=1&amp;tbm=vid&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestqueries.google.com/complete/search?output=toolbar&amp;hl={language}&amp;q={searchTerms}</item>
+    </string-array>
+    <string-array name="dianping">
+        <item>Яндекс</item>
+        <item>yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+    </string-array>
+    <string-array name="easou">
+        <item>Фото</item>
+        <item>m.yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/images/search?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+    </string-array>
+    <string-array name="yicha">
+        <item>Видео</item>
+        <item>yicha.cn</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/video/search?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+    </string-array>
+
+
+    <string-array name="bing">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>http://www.bing.com/s/wlflag.ico</item>
+        <item>http://www.bing.com/search?q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="sogou">
+        <item>Фото</item>
+        <item>bing.com</item>
+        <item>http://image.baidu.com/favicon.ico</item>
+        <item>http://www.bing.com/images/search?q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="taobao">
+        <item>Видео</item>
+        <item>bing.com</item>
+        <item>http://youtube.com/favicon.ico</item>
+        <item>http://www.bing.com/videos/search?q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+
+
+
+    <string-array name="search_engines_rCN">
+        <item>google</item>
+        <item>dianping</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_rCN">
+        <item>google</item>
+        <item>tupian</item>
+        <item>shipin</item>
+        <item>dianping</item>
+        <item>easou</item>
+        <item>yicha</item>
+        <item>bing</item>
+        <item>sogou</item>
+        <item>taobao</item>
+    </string-array>
+
+
+
+    <string-array name="search_engines_default">
+        <item>google</item>
+        <item>dianping</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_default">
+        <item>google</item>
+        <item>dianping</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Да</item>
+        <item>По требованию</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Мелкий</item>
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Латинская (ISO-8859-1)</item>
+        <item>Юникод (UTF-8)</item>
+        <item>Китайская (GBK)</item>
+        <item>Китайская (Big5)</item>
+        <item>Японская (ISO-2022-JP)</item>
+        <item>Японская (SHIFT_JIS)</item>
+        <item>Японская (EUC-JP)</item>
+        <item>Корейская (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Никогда</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Никогда</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Никогда</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Главная страница</item>
+        <item>Установить свою</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Компьютер</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Прокрутка страницы</item>
+        <item>Переключение вкладок</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Переключение страниц</item>
+        <item>Переключение вкладок</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Никогда</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Мелкий</item>
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>Большой</item>
+        <item>Средний</item>
+        <item>Нормальный</item>
+        <item>Мелкий</item>
+    </string-array>
+
+</resources>

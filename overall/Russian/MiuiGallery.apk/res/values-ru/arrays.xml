@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baby_sexy">
+        <item>Мальчик</item>
+        <item>Девочка</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Папа</item>
+        <item>Мама</item>
+        <item>Дедушка по папе</item>
+        <item>Бабушка по папе</item>
+        <item>Дедушка по маме</item>
+        <item>Бабушка по маме</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Я</item>
+        <item>Ребенок</item>
+        <item>Семья</item>
+        <item>Коллеги</item>
+        <item>Одноклассники</item>
+        <item>Друзья</item>
+        <item>Другие</item>
+    </string-array>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">Не показывать выбранные лица?</item>
+        <item quantity="one">Не показывать выбранные лица?</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s схожих фото</item>
+        <item quantity="one">%1$s схожее фото</item>
+        <item quantity="few">%1$s схожих фото</item>
+        <item quantity="many">%1$s схожих фото</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d лет</item>
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d года</item>
+        <item quantity="many">%d лет</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d месяцев</item>
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяца</item>
+        <item quantity="many">%d месяцев</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d дней</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d фото от \"%2$s\" будут добавлены</item>
+        <item quantity="one">%1$d фото от \"%2$s\" будут добавлены</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d фото от \"%2$s\" будут добавлены</item>
+        <item quantity="one">%1$d фото от \"%2$s\" будут добавлены</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">%d пользователей</item>
+        <item quantity="one">%d пользователь</item>
+        <item quantity="few">%d пользователя</item>
+        <item quantity="many">%d пользователей</item>
+    </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">Удалить %1$d фото %2$s?</item>
+        <item quantity="one">Удалить %1$d фото %2$s?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">Удалить %1$d видео %2$s?</item>
+        <item quantity="one">Удалить %1$d видео %2$s?</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Удалить %1$d файлов %2$s?</item>
+        <item quantity="one">Удалить %1$d файл %2$s?</item>
+        <item quantity="few">Удалить %1$d файла %2$s?</item>
+        <item quantity="many">Удалить %1$d файлов %2$s?</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">, включая %d файлов</item>
+        <item quantity="one">, включая %d файл</item>
+        <item quantity="few">, включая %d файла</item>
+        <item quantity="many">, включая %d файлов</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d фото для загрузки</item>
+        <item quantity="one">%1$d фото для загрузки</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d видео для загрузки</item>
+        <item quantity="one">%1$d видео для загрузки</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d файлов для загрузки</item>
+        <item quantity="one">%1$d файл для загрузки</item>
+        <item quantity="few">%1$d файла для загрузки</item>
+        <item quantity="many">%1$d файлов для загрузки</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Загрузка %1$d фото…</item>
+        <item quantity="one">Загрузка %1$d фото…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Загрузка %1$d видео…</item>
+        <item quantity="one">Загрузка %1$d видео…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Загрузка %1$d файлов…</item>
+        <item quantity="one">Загрузка %1$d файла…</item>
+    </plurals>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkLocation</string>
+    <string name="app_label">Местоположение по сети</string>
+     <string name="location_warning_title">Разрешить геолокацию</string>
+     <string name="location_warning_title_first">Разрешить геолокацию</string>
+     <string name="location_warning_title_close">Разрешить геолокацию</string>
+     <string name="location_warning_message">"Когда функция НЛП (Местоположение по сети) включена, вы позволите службе Baidu собирать анонимные данные о местоположении. Передаваемые данные будут зашифрованы. Шифрование и сбор проводятся, даже когда приложения не запущены. Вы будете оплачивать трафик. Данные шифруются и будут использованы для получения информации о местоположении и повышения эффективности и точности. Мы обещаем, что собранные данные не будут предоставляться другим лицам или использоваться для других целей. Будут собираться следующие данные:
+- ID, сила сигнала сети WLAN;
+- ID, сила сигнала базовой станции (GSM);
+- ID, сила сигнала базовой станции (CDMA)"</string>
+     <string name="location_close_warning_message">Закрыв NetworkLocation приведет к невозможности определить Ваше местоположение для некоторых приложений.</string>
+     <string name="location_first_warning_message">Для того, что бы улучшить работу Вашего устройства, система автоматически откроет службы сетевого местоположения.</string>
+     <string name="location_warning_title_1">Разрешить геолокацию</string>
+     <string name="location_warning_title_first_1">Разрешить геолокацию</string>
+     <string name="location_warning_title_close_1">Разрешить геолокацию</string>
+     <string name="location_warning_message_1">Когда функция НЛП (Местоположение по сети) включена, вы позволите службе Baidu собирать анонимные данные о местоположении. Передаваемые данные будут зашифрованы. Шифрование и сбор проводятся, даже когда приложения не запущены. Вы будете оплачивать трафик.</string>
+     <string name="always_wifi_scan_tip_tittle">Всегда разрешить сканирование</string>
+     <string name="always_wifi_scan_tip_content">Разрешить сетевому позиционированию и приложениям сканировать сети Wi-Fi, даже когда Wi-Fi выключена.</string>
+     <string name="agree">Согласен</string>
+     <string name="disagree">Не согласен</string>
+     <string name="close_agree">Да</string>
+     <string name="close_disagree">Нет</string>
+</resources>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caller_app">Запрос: %1$s</string>
+    <string name="safe_guard_support">Поддержка: %1$s</string>
+    <string name="safe_relative">Безопасные разрешения</string>
+    <string name="privacy_relative">Опасные разрешения</string>
+    <string name="other_relative">Другие разрешения</string>
+    <string name="perm_notice">Оповещение безопасности</string>
+    <string name="trust_switch_dialog_msg">Система не будет спрашивать вашего разрешения на любые действия этого приложения</string>
+    <string name="auto_startup_dialog_msg">Система позволит приложению запускаться автоматически</string>
+    <string name="low_risk_perms">Разрешения низкого риска</string>
+    <string name="high_risk_perms">Разрешения высокого риска</string>
+    <string name="perm_privacy_app_finish">Закрыть</string>
+    <string name="perm_privacy_app_launch">Открыть</string>
+    <string name="perm_privacy_app_installed">Установка завершена!</string>
+    <string name="perm_sysopt_boost_auto_start">Разрешить автозапуск</string>
+    <string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск при загрузке телефона</string>
+    <string name="perm_privacy_app_trust">Доверять приложению</string>
+    <string name="perm_privacy_app_trust_summary">Система не будет следить за этим приложением</string>
+    <string name="perm_action_accept">Разрешить</string>
+    <string name="perm_action_prompt">Запрос</string>
+    <string name="perm_action_reject">Запретить</string>
+    <string name="unknown_installer">Неизвестный установщик ПК</string>
+    <string name="dlg_app_replacement_statement_with_version">"Приложение: %1$s 
+Установленная версия: %3$s 
+Версия обновления: %2$s 
+
+Все пользовательские данные будут сохранены.
+Продолжить установку?"</string>
+    <string name="lift_ban">Снять запрет</string>
+    <string name="uninstall_confirm_question">Удалить это приложение?</string>
+    <string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>
+    <string name="install_failed_system_incompatible">Это приложение не совместимо с системой MIUI</string>
+    <string name="permission_group_title_charges_related">Телефон</string>
+    <string name="permission_group_title_privacy_related">Конфиденциальность</string>
+    <string name="permission_group_title_media_related">Медиа</string>
+    <string name="permission_group_title_settings_related">Настройки</string>
+    <string name="permission_group_title_others">Другое</string>
+    <string name="permission_action_accept">Разрешить</string>
+    <string name="permission_action_prompt">С запросом</string>
+    <string name="permission_action_reject">Запретить</string>
+    <string name="permission_send_sms_descx">Приложение может отправлять SMS и MMS</string>
+    <string name="virus_scan_install">" "<u>продолжить установку</u>" "</string>
+    <string name="virus_scan_is_virus">Приложение содержит вирус, рекомендуется удалить!</string>
+    <string name="virus_scan_is_risk">Приложение содержит угрозу, продолжить установку?</string>
+    <string name="virus_scan_clear">Удалить</string>
+    <string name="virus_scan_caller_unknown">Неизвестно</string>
+    <string name="app_name">Установка приложений</string>
+    <string name="install">Установить</string>
+    <string name="done">Готово</string>
+    <string name="security_settings_desc">Разрешить этому приложению:</string>
+    <string name="cancel">Отмена</string>
+    <string name="unknown">Неизвестно</string>
+    <string name="installing">Установка…</string>
+    <string name="install_done">Приложение установлено</string>
+    <string name="install_confirm_question">Установить это приложение?</string>
+    <string name="install_failed">Приложение не установлено</string>
+    <string name="install_failed_invalid_apk">Файл поврежден</string>
+    <string name="install_failed_inconsistent_certificates">Подпись обновления не совпадает с подписью установленного приложения. Перед установкой удалите старую версию.</string>
+    <string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
+    <string name="install_failed_cpu_abi_incompatible">Процессор телефона не поддерживает это приложение</string>
+    <string name="install_failed_file_not_found">Указанный пакет удален до завершения установки</string>
+    <string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен</string>
+    <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже.</string>
+    <string name="install_failed_msg">Не удалось установить приложение "%1$s"</string>
+    <string name="launch">Открыть</string>
+    <string name="unknown_apps_dlg_title">Установка заблокирована</string>
+    <string name="unknown_apps_dlg_text">Из-за соображений безопасности на устройстве заблокирована установка приложений, полученных из неофициальных источников.</string>
+    <string name="unknown_apps_dlg_text1">"На Вашем устройстве заблокирована установка приложений, полученных из неофициальных источников. Вы можете отключить данную функцию в "</string>
+    <string name="unknown_apps_dlg_text2">\"Настройках\"</string>
+    <string name="unknown_apps_dlg_text3">.</string>
+    <string name="ok">ОК</string>
+    <string name="settings">Настройки</string>
+    <string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
+    <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
+
+Разрешить и запомнить выбор?"</string>
+    <string name="manage_applications">Управление</string>
+    <string name="dlg_app_replacement_title">Замена приложения</string>
+    <string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит уже существующее.
+
+Все пользовательские данные будут сохранены."</string>
+    <string name="dlg_sys_app_replacement_statement">"Приложение, которое вы устанавливаете, является системным.
+
+Все пользовательские данные будут сохранены.
+Продолжить установку?"</string>
+    <string name="out_of_space_dlg_title">Недостаточно места</string>
+    <string name="out_of_space_dlg_text">Не удалось установить приложение "%1$s". Освободите память и повторите попытку.</string>
+    <string name="dlg_ok">ОК</string>
+    <string name="app_not_found_dlg_title">Приложение не найдено</string>
+    <string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
+    <string name="uninstall_application_title">Удаление приложения</string>
+    <string name="uninstall_update_title">Удаление обновления</string>
+    <string name="uninstall_activity_text">"%1$s" является частью выбранного приложения.</string>
+    <string name="uninstall_application_text">Приложение будет удалено</string>
+    <string name="uninstall_update_text">Будет восстановлена исходная версия приложения</string>
+    <string name="uninstalling">Удаление…</string>
+    <string name="uninstall_done">Удаление завершено</string>
+    <string name="uninstall_failed">Ошибка при удалении</string>
+    <string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования устройства</string>
+    <string name="manage_device_administrators">Настройки администрирования</string>
+    <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
+    <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
+    <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
+    <string name="all">Все разрешения</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_continue">Продолжить</string>
+    <string name="button_continue_install">Продолжить</string>
+    <string name="button_install_lastest">Установить</string>
+    <string name="button_install_official">Установить</string>
+    <string name="button_next">Далее</string>
+    <string name="button_remove">Удалить</string>
+    <string name="installer_name">Источник: %1$s</string>
+    <string name="main_title">Установить приложение</string>
+    <string name="permission_warn_hint">Разрешения приложения:</string>
+    <string name="permission_warn_title">Приложение загружено из неизвестного источника</string>
+    <string name="lift_ban_once">Установить</string>
+    <string name="dlg_appstore_notice">Загрузите приложение из &lt;u>&lt;font color=#91c727>Google Play&lt;/font>&lt;/u></string>
+    <string name="progress_verifying">Проверка…</string>
+    <string name="update_log_default">Нет списка изменений</string>
+    <string name="update_time">%4$s дата выпуска: %2$s/%3$s/%1$s.</string>
+    <string name="update_title">%1$s обновлено</string>
+    <string name="warn_message">Ваши личные данные более уязвимы для атак приложений из неизвестных источников</string>
+    <string name="warn_title">Подозрительное приложение</string>
+	<string name="app_store_missing_title">Отсутствует Mi Магазин</string>
+    <string name="reboot_time">Перезагрузка через……(%1$s)</string>
+    <string name="app_store_missing_message">Mi Магазин не установлен на Вашем устройстве, установить сейчас?</string>
+	<string name="app_store_installing_message">Установка…</string>
+    <string name="btn_text_security_install">Заменить на безопасную версию</string>
+    <string name="btn_text_install_new_version">Последняя версия</string>
+    <string name="btn_text_install_origin">Оригинальная версия</string>
+    <string name="btn_text_install_security_version_in_appstore">Заменить на безопасную версию</string>
+    <string name="btn_text_scaning">Проверка…</string>
+    <string name="btn_text_full_scan">Полная проверка</string>
+    <string name="message_full_scanning">Полная проверка…</string>
+    <string name="message_quick_scanning">Быстрая проверка…</string>
+    <string name="message_install_in_market">Рекомендуем установить это приложение из Mi Маркета</string>
+    <string name="message_appstore_verify_has_new_version">Доступна новая версия этого приложения в Mi Маркете. Установить сейчас?</string>
+    <string name="message_appstore_verify_inconsistent">Это приложение имеет подпись, отличную от приложения в Mi Маркете. Для обеспечения безопасности мы рекомендуем установить это приложение из Mi Маркета.</string>
+    <string name="message_appstore_verify_ok">Это приложение прошло проверку безопасности.</string>
+    <string name="install_from_appstore_hint">Рекомендуем установить приложение из &lt;u>&lt;font color=#91c727>Mi Маркета&lt;/font>&lt;/u></string>
+    <string name="waiting_tip">Это займёт некоторое время</string>
+	<string name="activity_package_delete_confirm_title">Важное предупреждение</string>
+	<string name="button_text_cancel">Отмена</string>
+	<string name="button_text_delete">Удалить</string>
+    <string name="button_text_next_step_timer">Далее (%d)</string>
+	<string name="button_text_delete_timer">Удалить (%d)</string>
+    <string name="package_delete_confirm_step_1">Удалить %s?</string>
+    <string name="package_delete_confirm_step_2">Удаление этого приложения может привести к нестабильности в вашей системе.</string>
+    <string name="package_delete_confirm_step_3">Вы не сможете открыть это приложение после его удаления.</string>
+</resources>
